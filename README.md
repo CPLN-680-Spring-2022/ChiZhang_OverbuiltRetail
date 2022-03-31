@@ -11,8 +11,11 @@ For the researcher, this paper explores a creative application of gravity model 
 This research aims to use econometric model to validate if shopping center overbuilt exists in Shanghai. For the over-developed districts, a regression model is built to identify surplus shopping centers with investment potential for future regeneration or redevelopment.
 ## Folders
 - See `/raw_data` for identified datasets:
-  - ShoppingCenterInfo(age/area/coordinates/customer gradings)
+  - ShoppingCenter(age/area/coordinates/customer gradings)
   - Census(population/disposable income/consumption expense)
   - UrbanEvironment(public transit stations/roads/parks/POI)
-- See `/scripts` for codings and Arcmap file.
-  - Including `/resources/syllabus.pdf`
+  - GeoData(geodatabase of Arcmap file)
+- See `/model` for scripts and Arcmap file.
+  - Notebook of data cleaning and exploration
+  - Arcmap of gravity model
+  - Spreadsheet of financial calculation
