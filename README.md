@@ -1,4 +1,4 @@
-# Identifying shopping centers with high operating loss risk and potential redevelopment opportunities
+# Identifying shopping centers with high operating loss risk and potential redevelopment opportunities in an overbuilt market
 
 Chi Zhang, MUSA 2022
 ## Background
